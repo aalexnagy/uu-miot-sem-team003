@@ -1,0 +1,2 @@
+OS installation manual: https://tower.hardwario.com/en/latest/tutorials/raspberry-pi-installation/
+OS image: https://github.com/hardwario/hio-raspbian/releases/tag/v1.11.0
